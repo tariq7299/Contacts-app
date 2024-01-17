@@ -86,6 +86,7 @@ const router = createBrowserRouter([
 
 // JSX code instead of functional code in declaring routes
 
+
 // import {
 //   createRoutesFromElements,
 //   createBrowserRouter,
